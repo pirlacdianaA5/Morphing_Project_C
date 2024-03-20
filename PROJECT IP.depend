@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1670396736 source:c:\users\theon\onedrive\desktop\project ip\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<string.h>
+	<stdlib.h>
+
+1671495751 source:c:\users\cpirlac\desktop\project ip\main.cpp
+	<iostream>
+	<dos.h>
+	<conio.h>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<string.h>
+	<cmath>
+	<stdlib.h>
+	<mmsystem.h>
+	<windows.h>
+
